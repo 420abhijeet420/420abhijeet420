@@ -1,4 +1,4 @@
-# Hi, I'm Abhijeet 👋
+# Hi, I'm Abhijeet 
 
 ### AI/ML Student • Developer • Builder
 
