@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Abhijeet 👋
 
-<!--
-**420abhijeet420/420abhijeet420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Student • Developer • Builder
 
-Here are some ideas to get you started:
+I’m a third-year AI/ML student focused on building practical, scalable software.  
+My work blends **backend systems, mobile apps, and applied AI**, with strong problem-solving foundations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Focus On
+- Backend development (JavaScript, Nodejs, Expressjs)
+- Frontend (React)
+- Mobile Apps (Flutter)
+- Data Structures & Algorithms (LeetCode practice)
+
+---
+
+## 🛠 Tech Stack
+**Languages:** C++, JavaScript  
+**Domains:** Ai-Ml, FullStack 
+
+---
+
+## 📌 Current Work
+- Building Movie ticket booking software 
+- Preparing for SDE roles and remote opportunities
+
+---
+
+## 📈 GitHub Goals
+- Ship production-ready apps
+- Contribute to impactful open-source projects
+- Build scalable AI-backed systems
+- Solve complex engineering problems
+
+---
+
+⚡ *I build. I ship. I improve every day.*
