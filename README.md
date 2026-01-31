@@ -7,7 +7,7 @@ My work blends **backend systems, mobile apps, and applied AI**, with strong pro
 
 ---
 
-## 🚀 What I Focus On
+## What I Focus On
 - Backend development (JavaScript, Nodejs, Expressjs)
 - Frontend (React)
 - Mobile Apps (Flutter)
@@ -15,19 +15,19 @@ My work blends **backend systems, mobile apps, and applied AI**, with strong pro
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 **Languages:** C++, JavaScript  
 **Domains:** Ai-Ml, FullStack 
 
 ---
 
-## 📌 Current Work
+##  Current Work
 - Building Movie ticket booking software 
 - Preparing for SDE roles and remote opportunities
 
 ---
 
-## 📈 GitHub Goals
+## GitHub Goals
 - Ship production-ready apps
 - Contribute to impactful open-source projects
 - Build scalable AI-backed systems
@@ -35,4 +35,4 @@ My work blends **backend systems, mobile apps, and applied AI**, with strong pro
 
 ---
 
-⚡ *I build. I ship. I improve every day.*
+ *I build. I ship. I improve every day.*
