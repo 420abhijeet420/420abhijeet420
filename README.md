@@ -8,15 +8,14 @@ My work blends **backend systems, mobile apps, and applied AI**, with strong pro
 ---
 
 ## What I Focus On
-- Backend development (JavaScript, Nodejs, Expressjs)
+- Backend development (JavaScript, Nodejs, Expressjs, Springboot)
 - Frontend (React)
-- Mobile Apps (Flutter)
 - Data Structures & Algorithms (LeetCode practice)
 
 ---
 
 ## Tech Stack
-**Languages:** C++, JavaScript  
+**Languages:** C++, JavaScript, Java  
 **Domains:** Ai-Ml, FullStack 
 
 ---
